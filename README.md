@@ -1,58 +1,24 @@
-- 👋 Hi, I’m @rajpatel2435
-- 👀 I’m interested in front end technologies
-- 🌱 I’m currently learning oops concepts in java
-- 💞️ I’m looking to collaborate on ...
-- 📫 you can reach me through my gmail
-- I am good at HTML,CSS (tailwind css, SASS, LESS) and JavaScript.
-- I am proficiant with React JS and PHP
-
-<!---
-rajpatel2435/rajpatel2435 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-Hi there 👋, Myself Umair Azmat
-I'm a
+# 💫 About Me:
+I am a passionate web developer with 1+ year of experience in WordPress, JavaScript,Next JS, and MERN Stack .<br>I specialize in creating high-quality web applications, improving businesses' digital presence and performance, and solving complex problems. I am also a dedicated teacher and trainer, helping others to learn and improve their skills in coding and web development.<br> In addition to my professional work, I am an open-source enthusiast who is always looking for ways to contribute to the community. I am a lifelong learner and strive to continuously improve my skills and knowledge.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raj-patel-5b5902222/) 
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rajpatel2435&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rajpatel2435&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajpatel2435&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-GIFI am a passionate software engineer and web developer with 2+ years of experience in WordPress, JavaScript, and MERN Stack . I specialize in creating high-quality web applications, improving businesses' digital presence and performance, and solving complex problems. I am also a dedicated teacher and trainer, helping others to learn and improve their skills in coding and web development. In addition to my professional work, I am an open-source enthusiast who is always looking for ways to contribute to the community. I am a lifelong learner and strive to continuously improve my skills and knowledge.
-🤝🏻  Connect with Me
-    
-⚙️ GitHub Analytics
-  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rajpatel2435&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Github Contributions 📊
-🕸️ Programming Languages
-HTML CSS3 JavaScript Typescript Java Python C#
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🕸️ WEB DEV
-HTML CSS3 JavaScript Typescript Bootstrap Material UI React Next JS Sass Mongodb Firebase
+---
+[![](https://visitcount.itsvg.in/api?id=rajpatel2435&icon=0&color=0)](https://visitcount.itsvg.in)
 
-📱 MOBILE Development
-React Native
-
-🧰 Frameworks & Libraries
-Bootstrap Material UI React Next JS Express.js FastAPI Sass NodeJS
-
-📅 DATABASES
-Mongodb MySql
-
-🛠️ DEVOPS TOOLS
-Git GitHub NPM
-
-☁️ CLOUDS
-Google Cloud AWS Firebase
-
-🍧 DESIGN TOOLS
-Figma Adobe XD Adobe Photoshop
-
-🎓📚 Education
-Coursera FreeCodeCamp Stack_Overflow Microsoft Learn MDN Web Docs Scrimba Udemy
-
-👩‍💻 IDEs
-Visual_Studio_Code IntelliJIDEA Sublime Text Android Studio Eclipse Jupyter Notebook PyCharm Spyder
-
-Trophies
-https://github.com/umairazmat?tab=repositories
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
