@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate web developer with 1+ year of experience in WordPress, JavaScript,Next JS, and MERN Stack .<br>I specialize in creating high-quality web applications, improving businesses' digital presence and performance, and solving complex problems.<br> In addition to my professional work, I am an open-source enthusiast who is always looking for ways to contribute to the community. <br>I am a lifelong learner and strive to continuously improve my skills and knowledge.
+I am a passionate web developer with 1.5+ year of experience in WordPress, JavaScript,Next JS, and MERN Stack .<br>I specialize in creating high-quality web applications, improving businesses' digital presence and performance, and solving complex problems.<br> In addition to my professional work, I am an open-source enthusiast who is always looking for ways to contribute to the community. <br>I am a lifelong learner and strive to continuously improve my skills and knowledge.
 
 
 ## 🌐 Socials:
