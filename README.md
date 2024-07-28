@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a passionate web developer with 1.5+ year of experience in WordPress, JavaScript,Next JS, and MERN Stack .<br>I specialize in creating high-quality web applications, improving businesses' digital presence and performance, and solving complex problems.<br> In addition to my professional work, I am an open-source enthusiast who is always looking for ways to contribute to the community. <br>I am a lifelong learner and strive to continuously improve my skills and knowledge.
+Hi! I'm Raj, a passionate full stack web developer with expertise in both front-end and back-end technologies. I specialize in building custom WordPress themes and plugins, ensuring they are both functional and optimized for performance. My full stack skills include working with Node.js, React, Next.js, MongoDB, and SQL, enabling me to create comprehensive, scalable applications. I have a track record of significant achievements, such as improving site performance by 25% on the Pointspreads project and enhancing user engagement through effective development practices.
+
+My experience spans various industries, including the gambling sector, where I developed and supported high-performance websites. I am continuously expanding my expertise into new areas such as blockchain technology and game development. My commitment to leveraging a diverse technology stack allows me to deliver robust solutions and stay at the forefront of web development trends.
 
 
 ## 🌐 Socials:
