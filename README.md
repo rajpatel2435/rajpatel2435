@@ -1,7 +1,27 @@
 # 💫 About Me:
-Hi! I'm Raj, a passionate full stack web developer with expertise in both front-end and back-end technologies. I specialize in building custom WordPress themes and plugins, ensuring they are both functional and optimized for performance. My full stack skills include working with Node.js, React, Next.js, MongoDB, and SQL, enabling me to create comprehensive, scalable applications. I have a track record of significant achievements, such as improving site performance by 25% on the Pointspreads project and enhancing user engagement through effective development practices.
+👋 Hi, I'm Raj Patel, a passionate Full Stack Developer with a diverse skill set, focused on delivering efficient, scalable, and user-friendly web solutions. With extensive experience in both front-end and back-end development, I enjoy building projects that solve real-world problems while constantly exploring new technologies.
 
-My experience spans various industries, including the gambling sector, where I developed and supported high-performance websites. I am continuously expanding my expertise into new areas such as blockchain technology and game development. My commitment to leveraging a diverse technology stack allows me to deliver robust solutions and stay at the forefront of web development trends.
+🚀 What I do:
+
+Full Stack Web Development
+WordPress Theme & Plugin Development
+Performance Optimization & SEO
+API Integration & Development
+Database Design & Management
+Responsive Design & Cross-browser Compatibility
+🔧 Tech Stack:
+
+Frontend: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Bootstrap, jQuery
+Backend: Node.js, PHP, Laravel, MySQL, MongoDB, REST APIs
+WordPress: Custom Theme & Plugin Development, ACF, Timber, Flynt
+DevOps: Docker, DigitalOcean, Nginx, Apache, Git, CI/CD
+Build Tools: Webpack, Vite, Gulp, Composer, npm
+CMS & E-commerce: WordPress, WooCommerce, Shopify
+Testing & Debugging: Mocha, Chai, Jest, Postman
+SEO & Digital Marketing: Yoast SEO, Google Analytics, Tag Manager, Meta & Google Ads
+I’m always excited about collaborating on innovative projects, contributing to open-source, and continuously learning to enhance my skill set. Let’s build something awesome together! 🌟
+
+
 
 
 ## 🌐 Socials:
