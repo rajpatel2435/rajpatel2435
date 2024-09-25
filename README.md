@@ -11,8 +11,8 @@ Database Design & Management
 Responsive Design & Cross-browser Compatibility
 🔧 Tech Stack:
 
-## Frontend: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Bootstrap, jQuery
-## Backend: Node.js, PHP, Laravel, MySQL, MongoDB, REST APIs
+Frontend: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Bootstrap, jQuery
+Backend: Node.js, PHP, Laravel, MySQL, MongoDB, REST APIs
 WordPress: Custom Theme & Plugin Development, ACF, Timber, Flynt
 DevOps: Docker, DigitalOcean, Nginx, Apache, Git, CI/CD
 Build Tools: Webpack, Vite, Gulp, Composer, npm
