@@ -1,27 +1,48 @@
 # 💫 About Me:
-👋 Hi, I'm Raj Patel, a passionate Full Stack Developer and aspiring Blockchain Developer with a diverse skill set, focused on delivering efficient, scalable, and user-friendly web solutions. With extensive experience in both front-end and back-end development, I thrive on building projects that solve real-world problems and am constantly exploring new technologies, including blockchain.
+# 👋 Hi, I'm Raj Patel
 
-🚀 What I do:
+I'm a passionate Full Stack Developer and aspiring Blockchain Developer with a diverse skill set, focused on delivering efficient, scalable, and user-friendly web solutions. With extensive experience in both front-end and back-end development, I enjoy building projects that solve real-world problems and am constantly exploring new technologies, including blockchain.
 
-Full Stack Web Development
-WordPress Theme & Plugin Development
-Performance Optimization & SEO
-API Integration & Development
-Database Design & Management
-Responsive Design & Cross-browser Compatibility
-Blockchain Development: Building decentralized applications (DApps), writing secure and efficient smart contracts in Solidity, and integrating wallet functionalities for seamless user experiences.
-🔧 Tech Stack:
+## 🚀 What I do:
+- **Full Stack Web Development**
+- **WordPress Theme & Plugin Development**
+- **Performance Optimization & SEO**
+- **API Integration & Development**
+- **Database Design & Management**
+- **Responsive Design & Cross-browser Compatibility**
+- **Blockchain Development**: Building decentralized applications (DApps), writing secure and efficient **smart contracts** in Solidity, and integrating **wallet** functionalities for seamless user experiences.
 
-Frontend: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Bootstrap, jQuery
-Backend: Node.js, PHP, Laravel, MySQL, MongoDB, REST APIs
-Blockchain: Solidity, Web3.js, Ethers.js, Truffle, Hardhat, Ethereum, MetaMask, smart contracts
-WordPress: Custom Theme & Plugin Development, ACF, Timber, Flynt
-DevOps: Docker, DigitalOcean, Nginx, Apache, Git, CI/CD
-Build Tools: Webpack, Vite, Gulp, Composer, npm
-CMS & E-commerce: WordPress, WooCommerce, Shopify
-Testing & Debugging: Mocha, Chai, Jest, Postman
-SEO & Digital Marketing: Yoast SEO, Google Analytics, Tag Manager, Meta & Google Ads
-I'm always excited about collaborating on innovative projects, contributing to open-source, and continuously learning to enhance my skill set. Let's build something awesome together! 🌟
+## 🔧 Tech Stack:
+
+### Frontend:
+- HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Bootstrap, jQuery
+
+### Backend:
+- Node.js, PHP, Laravel, MySQL, MongoDB, REST APIs
+
+### Blockchain:
+- Solidity, Web3.js, Ethers.js, Truffle, Hardhat, Ethereum, MetaMask, smart contracts
+
+### WordPress:
+- Custom Theme & Plugin Development, ACF, Timber, Flynt
+
+### DevOps:
+- Docker, DigitalOcean, Nginx, Apache, Git, CI/CD
+
+### Build Tools:
+- Webpack, Vite, Gulp, Composer, npm
+
+### CMS & E-commerce:
+- WordPress, WooCommerce, Shopify
+
+### Testing & Debugging:
+- Mocha, Chai, Jest, Postman
+
+### SEO & Digital Marketing:
+- Yoast SEO, Google Analytics, Tag Manager, Meta & Google Ads
+
+I’m always excited about collaborating on innovative projects, contributing to open-source, and continuously learning to enhance my skill set. Let’s build something awesome together! 🌟
+
 
 
 
